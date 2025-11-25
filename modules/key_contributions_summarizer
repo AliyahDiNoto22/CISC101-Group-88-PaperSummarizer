@@ -1,4 +1,17 @@
-Module 6: Key Contributions Summarizer
+# Module 6: Key Contributions Summarizer
 
-- Extract and highlight 3-5 main contributions of the paper
-- Phrased for both expert and lay audiences
+## Responsibilities
+- **Extract contributions:** Identify 3–5 primary contributions.
+- **Audience variants:** Provide expert and lay phrasing.
+
+## Inputs
+- **Paper text and summaries:** From previous modules.
+
+## Outputs
+- **Contributions list:** 3–5 bullet points.
+- **Dual variants:** Expert and lay versions.
+
+## Steps
+1. **Identify novel elements** (methods, findings, impacts).
+2. **Draft concise bullets** capturing significance.
+3. **Rewrite** each bullet for expert and lay audiences.
