@@ -1,4 +1,18 @@
-Module 5: Citation Extractor
+# Module 5: Citation Extractor
 
-- Identify and list citations in a structured table
-- Flag absence of references
+## Responsibilities
+- **Identify citations:** Extract in-text references and/or bibliography entries.
+- **Structure output:** Table with author, year, title (when available).
+- **Flag absence:** Note if no citations detected.
+
+## Inputs
+- **Paper text:** Sections and references.
+
+## Outputs
+- **Citations table:** Structured and deduplicated.
+- **Warnings:** "No citations found" when applicable.
+
+## Steps
+1. **Scan sections** and references for citation patterns.
+2. **Parse fields** (author, year, title) where available.
+3. **Output table** and add absence warning if none found.
