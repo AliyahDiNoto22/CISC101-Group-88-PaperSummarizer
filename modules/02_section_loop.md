@@ -1,5 +1,5 @@
 ## Change Log
-- **2025-11-25:** Added `summar_level` variable with conditional behavior.
+- **2025-11-25:** Added `summary_level` variable with conditional behavior.
   - If `summary_level = "short"` → generate compact 1–2 sentence summary.
   - If `summary_level = "detailed"` → generate short paragraph + bullet list of 3–5 key points.
  
